@@ -1,0 +1,5 @@
+# OS files
+.DS_Store
+
+# Identity documents - sensitive PII, never commit
+id-docs/
