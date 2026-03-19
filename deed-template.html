@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @page {
+    size: A4;
+    margin: 30mm 25mm 30mm 25mm;
+    @bottom-center {
+      content: "Page " counter(page) " of " counter(pages);
+      font-family: "Georgia", "Times New Roman", serif;
+      font-size: 9pt;
+      color: #666;
+    }
+  }
+
+  body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 12pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    text-align: justify;
+  }
+
+  h1.title {
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #333;
+    padding-bottom: 15px;
+  }
+
+  .preamble {
+    text-align: center;
+    font-size: 11pt;
+    margin-bottom: 30px;
+    line-height: 1.8;
+  }
+
+  .preamble strong {
+    font-size: 12pt;
+  }
+
+  h2 {
+    font-size: 13pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 28px;
+    margin-bottom: 12px;
+    letter-spacing: 1px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+  }
+
+  h2 .clause-num {
+    margin-right: 8px;
+  }
+
+  h3 {
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-bottom: 8px;
+  }
+
+  p {
+    margin-bottom: 10px;
+    text-indent: 0;
+  }
+
+  .party-block {
+    margin: 15px 0 15px 30px;
+    padding: 12px 15px;
+    border-left: 3px solid #555;
+    background: #fafafa;
+    line-height: 1.7;
+  }
+
+  .party-block .party-label {
+    font-weight: bold;
+    font-size: 11pt;
+    color: #444;
+    margin-bottom: 4px;
+  }
+
+  .party-block .party-name {
+    font-weight: bold;
+    font-size: 12pt;
+  }
+
+  ul {
+    margin: 8px 0 12px 20px;
+    padding-left: 15px;
+  }
+
+  ul li {
+    margin-bottom: 5px;
+    line-height: 1.5;
+  }
+
+  .firm-name {
+    font-weight: bold;
+    font-size: 13pt;
+    letter-spacing: 0.5px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0 16px 0;
+    font-size: 11pt;
+  }
+
+  table th {
+    background: #2c3e50;
+    color: white;
+    padding: 10px 14px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 11pt;
+    letter-spacing: 0.5px;
+  }
+
+  table td {
+    padding: 9px 14px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  table tr:nth-child(even) td {
+    background: #f7f7f7;
+  }
+
+  .whereas {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 12pt;
+  }
+
+  .witnesseth {
+    text-align: center;
+    font-weight: bold;
+    font-size: 11pt;
+    text-transform: uppercase;
+    margin: 25px 0;
+    letter-spacing: 1px;
+    line-height: 1.8;
+  }
+
+  .sub-clause {
+    margin-left: 20px;
+    margin-bottom: 8px;
+  }
+
+  .signature-section {
+    margin-top: 50px;
+    page-break-inside: avoid;
+  }
+
+  .signature-section h2 {
+    text-align: center;
+    border-bottom: none;
+  }
+
+  .sig-columns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+
+  .sig-col {
+    width: 45%;
+  }
+
+  .sig-block {
+    margin-bottom: 50px;
+  }
+
+  .sig-line {
+    border-bottom: 1px solid #333;
+    width: 250px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+  }
+
+  .sig-name {
+    font-weight: bold;
+    font-size: 11pt;
+  }
+
+  .sig-role {
+    font-size: 10pt;
+    color: #555;
+    font-style: italic;
+  }
+
+  .changes-table {
+    font-size: 9.5pt;
+    margin-top: 20px;
+  }
+
+  .changes-table th {
+    font-size: 9.5pt;
+    padding: 7px 10px;
+  }
+
+  .changes-table td {
+    padding: 6px 10px;
+    font-size: 9.5pt;
+  }
+
+  .section-divider {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+  }
+
+  .highlight {
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<h1 class="title">Partnership Deed</h1>
+
+<p class="preamble">
+  <strong>THIS DEED OF PARTNERSHIP</strong> is made and executed on this the
+  <strong>20th day of March 2026</strong>, at Hyderabad, Telangana.
+</p>
+
+<h2>By and Between</h2>
+
+<div class="party-block">
+  <div class="party-label">Party of the First Part</div>
+  <div class="party-name">Mr. NADELLA PATTABHI RAMA RAO</div>
+  (PAN: ABSPN6599A), S/o Ponnaiah Nadella, aged about 74 years, R/o Door No. 7-2-1813/5/A/1/5038, Rolin Arcade, Street No. 1, Czech Colony, Sanathnagar, Hyderabad, Telangana &ndash; 500018 (hereinafter called the <strong>Party of the First Part</strong>, which terms so far as the context will admit include his heirs, successors and assigns).
+</div>
+
+<div class="party-block">
+  <div class="party-label">Party of the Second Part</div>
+  <div class="party-name">Mr. NRUPAL C PRATTIPATI</div>
+  (PAN: AQEPP9635N), S/o Purna Chandra Rao Prattipati, aged about 45 years, R/o Door No. 8-1-405/A/66, Plot No. 66, Dream Valley, Near OU Colony, Shaikpet, Golkonda, Hyderabad, Telangana &ndash; 500008 (hereinafter called the <strong>Party of the Second Part</strong>, which terms so far as the context will admit include his heirs, successors and assigns).
+</div>
+
+<div class="party-block">
+  <div class="party-label">Party of the Third Part</div>
+  <div class="party-name">Mr. KOPPADA SRINIVAS</div>
+  (PAN: BAKPK6277J), S/o Adithya Abbai Koppada, aged about 45 years, R/o Door No. 8-2-676/1B/50, Sri Ram Nagar, Road No. 12, Banjara Hills, Khairtabad PO, Banjara Hills, Hyderabad, Telangana &ndash; 500034 (hereinafter called the <strong>Party of the Third Part</strong>, which terms so far as the context will admit include his heirs, successors and assigns).
+</div>
+
+<hr class="section-divider">
+
+<p>The above parties hereinafter referred to as <strong>&ldquo;Partners&rdquo;</strong>.</p>
+
+<p><span class="whereas">Whereas</span> the above parties hereto agreed to constitute a partnership between themselves to carry out in India or elsewhere the business to engage in the business of Generation, distribution, and sale of renewable energy and power solutions including but not limited to solar, wind, and hybrid energy systems for residential, commercial, and industrial establishments.</p>
+
+<h3>Ancillary Activities:</h3>
+<ul>
+  <li>Installation, commissioning, operations, and maintenance of renewable energy systems</li>
+  <li>Energy consulting, auditing, and advisory services</li>
+  <li>Trading, procurement, and supply of solar panels, inverters, batteries, and related equipment</li>
+  <li>Execution and management of Power Purchase Agreements (PPAs) and energy service contracts</li>
+  <li>Net metering coordination and liaison with government bodies, DISCOMs, and regulatory authorities</li>
+  <li>Energy monitoring, billing, and metering services</li>
+  <li>Electrical contracting and infrastructure works</li>
+  <li>Import and export of renewable energy equipment and components</li>
+  <li>Real estate and rooftop leasing for energy generation purposes</li>
+  <li>Software development and IT services for energy management and monitoring</li>
+  <li>Research, development, and training in renewable energy technologies</li>
+  <li>Any other lawful business as the Partners may decide from time to time as may be agreed upon by all the Partners</li>
+</ul>
+
+<p>under the name and style of <span class="firm-name">&ldquo;M/s. BRIGHT ROOF POWER SYSTEMS&rdquo;</span>.</p>
+
+<p><span class="whereas">Whereas</span> all the above parties hereinafter also referred to as Partners, which expression unless repugnant with the subject or context shall mean and include not only the said Partners but also their heirs, executors, administrators and assignors of the Partners.</p>
+
+<p><span class="whereas">And Whereas</span> the above said parties desire to reduce the terms and conditions of the partnership into writing to avoid future misunderstandings.</p>
+
+<p class="witnesseth">Now this Deed witnesseth and the parties hereto mutually agree that they shall be and remain partners and carry on the said business on the terms and conditions hereinafter contained:</p>
+
+<hr class="section-divider">
+
+<!-- CLAUSE 1 -->
+<h2><span class="clause-num">1.</span> Name of the Firm</h2>
+<p>The Partnership shall be carried on in the name and style of <span class="firm-name">&ldquo;M/s. BRIGHT ROOF POWER SYSTEMS&rdquo;</span> and such other name and names as the parties may from time to time determine.</p>
+
+<!-- CLAUSE 2 -->
+<h2><span class="clause-num">2.</span> Date of Commencement</h2>
+<p>The date of commencement of partnership shall be with effect from <strong>20th March 2026</strong>.</p>
+
+<!-- CLAUSE 3 -->
+<h2><span class="clause-num">3.</span> Duration</h2>
+<p>The partnership shall be a partnership at <strong>&ldquo;WILL&rdquo;</strong>.</p>
+
+<!-- CLAUSE 4 -->
+<h2><span class="clause-num">4.</span> Business of Partnership</h2>
+<p>The objects of partnership shall be to carry on in India or elsewhere the business of Generation, distribution, and sale of renewable energy and power solutions including but not limited to solar, wind, and hybrid energy systems for residential, commercial, and industrial establishments.</p>
+
+<h3>Ancillary Activities:</h3>
+<ul>
+  <li>Installation, commissioning, operations, and maintenance of renewable energy systems</li>
+  <li>Energy consulting, auditing, and advisory services</li>
+  <li>Trading, procurement, and supply of solar panels, inverters, batteries, and related equipment</li>
+  <li>Execution and management of Power Purchase Agreements (PPAs) and energy service contracts</li>
+  <li>Net metering coordination and liaison with government bodies, DISCOMs, and regulatory authorities</li>
+  <li>Energy monitoring, billing, and metering services</li>
+  <li>Electrical contracting and infrastructure works</li>
+  <li>Import and export of renewable energy equipment and components</li>
+  <li>Real estate and rooftop leasing for energy generation purposes</li>
+  <li>Software development and IT services for energy management and monitoring</li>
+  <li>Research, development, and training in renewable energy technologies</li>
+  <li>Any other lawful business as may be agreed upon by all the Partners from time to time</li>
+</ul>
+
+<!-- CLAUSE 5 -->
+<h2><span class="clause-num">5.</span> Place of Business</h2>
+<p>The place of business shall be at Door No. 7-2-1813/5/A/1/5038, Rolin Arcade, Street No. 1, Czech Colony, Sanathnagar, Hyderabad, Telangana &ndash; 500018 and/or such other places as the Partners may from time to time determine.</p>
+
+<!-- CLAUSE 6 -->
+<h2><span class="clause-num">6.</span> Capital Contribution</h2>
+<p>(a) The total capital required for the firm shall be contributed by the Partners in the following proportions:</p>
+
+<table>
+  <thead>
+    <tr><th>Partner</th><th>Share</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>First Partner (Mr. Nadella Pattabhi Rama Rao)</td><td>55% of the total capital</td></tr>
+    <tr><td>Second Partner (Mr. Nrupal C Prattipati)</td><td>35% of the total capital</td></tr>
+    <tr><td>Third Partner (Mr. Koppada Srinivas)</td><td>10% of the total capital</td></tr>
+  </tbody>
+</table>
+
+<p>(b) For any future projects undertaken by the firm, the total capital requirement shall be decided mutually by the Partners at the relevant time. The contribution of each Partner towards the capital for such projects shall be determined based on the terms mutually agreed upon for each respective project.</p>
+
+<p>(c) No Partner shall withdraw any part of the capital invested in the firm without the prior written consent of all other Partners.</p>
+
+<!-- CLAUSE 7 -->
+<h2><span class="clause-num">7.</span> Sharing of Profits and Losses</h2>
+<p>The profits and losses of the Firm shall be shared among the Partners in the following ratio:</p>
+
+<table>
+  <thead>
+    <tr><th>Partner</th><th>Share</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Mr. Nadella Pattabhi Rama Rao</td><td>55%</td></tr>
+    <tr><td>Mr. Nrupal C Prattipati</td><td>35%</td></tr>
+    <tr><td>Mr. Koppada Srinivas</td><td>10%</td></tr>
+  </tbody>
+</table>
+
+<!-- CLAUSE 8 -->
+<h2><span class="clause-num">8.</span> Interest on Capital</h2>
+<p>Interest at the rate of 12% per annum, or as may be prescribed under the provisions of the Income Tax Act, 1961 (as amended from time to time), for the relevant period shall be payable to the Partners on the amount standing to the credit of the capital accounts of the Partners.</p>
+
+<!-- CLAUSE 9 -->
+<h2><span class="clause-num">9.</span> Management</h2>
+<p>(a) The designation of Partners as <strong>Working Partners</strong> or <strong>Sleeping (Non-Working) Partners</strong> shall be decided by mutual discussion and agreement among all the Partners. Such designation may be reviewed and changed from time to time through a resolution passed at a Partners&rsquo; meeting with the consent of all Partners.</p>
+<p>(b) Working Partners shall be responsible for the day-to-day conduct of business with full powers to do all such acts, matters and things deemed necessary, proper and expedient for carrying on the Partnership business. They shall be empowered to enter into agreements on behalf of the firm to acquire the assets required, to mortgage the properties of the business for obtaining loans for the partnership business, to receive payments on behalf of the firm and issue receipts, to make disbursements and incur expenditure during the course of conduct of business, to deal/negotiate/enter into all agreements with the Government Departments/banks and to do all such other acts necessary and expedient and incidental to carry on the partnership business.</p>
+<p>(c) Sleeping Partners shall not participate in the day-to-day management of the Firm but shall retain their right to access the books of accounts, receive periodic reports on the business, and participate in all major decisions as outlined in Clause 10.</p>
+<p>(d) Only Working Partners shall be entitled to remuneration as specified in Clause 12. Sleeping Partners shall be entitled to their share of profits and interest on capital as per their respective clauses.</p>
+
+<!-- CLAUSE 10 -->
+<h2><span class="clause-num">10.</span> Decision Making</h2>
+<p>(a) All decisions relating to the ordinary course of business shall be taken by a <strong>majority vote</strong> of the Partners, with each Partner&rsquo;s vote weighted in proportion to their profit-sharing ratio.</p>
+
+<p>(b) The following decisions shall require <strong>unanimous consent</strong> of all Partners:</p>
+<ul>
+  <li>Admission of a new Partner</li>
+  <li>Change in the nature of the business</li>
+  <li>Any transaction exceeding Rs. 10,00,000 (Rupees Ten Lakhs) in value</li>
+  <li>Any borrowing exceeding Rs. 25,00,000 (Rupees Twenty-Five Lakhs)</li>
+  <li>Sale, mortgage, or disposal of any immovable property of the firm</li>
+  <li>Any amendment or alteration to this Deed</li>
+</ul>
+
+<!-- CLAUSE 11 -->
+<h2><span class="clause-num">11.</span> Borrowing Powers</h2>
+<p>The First and Second Partners can borrow the funds for the purpose of business of the firm from banks, financial and lending institutions and from others, and for this purpose the First and Second Partners are jointly authorized to sign all relevant documents. The Third Partner acknowledges and agrees to this arrangement.</p>
+
+<!-- CLAUSE 12 -->
+<h2><span class="clause-num">12.</span> Remuneration to Partners</h2>
+<p>Each <strong>Working Partner</strong> of the firm is entitled to a monthly remuneration of up to Rs. 1,00,000/- (Rupees One Lakh Only), subject to the provisions of the Income Tax Act, 1961. This remuneration may be adjusted, either increased or decreased, through mutual agreement between the Partners. Sleeping (Non-Working) Partners shall not be entitled to remuneration but shall continue to receive their share of profits and interest on capital.</p>
+
+<!-- CLAUSE 13 -->
+<h2><span class="clause-num">13.</span> Bank Accounts</h2>
+<p>The bankers of the partnership shall be any Scheduled Bank, Co-operative Bank, or any Nationalized Bank with whom an account shall be opened and operated by the Party of the First Part or Party of the Second Part in the name of the firm.</p>
+
+<!-- CLAUSE 14 -->
+<h2><span class="clause-num">14.</span> Books of Accounts</h2>
+<p>The books of account for the first accounting period shall be closed on 31st March of every year. An account shall be taken of all the capital, assets and liabilities for the time being of the partnership. A Balance Sheet and Profit &amp; Loss Account, after making due allowance for depreciation and recouping of any lost capital, shall be prepared and a copy thereof furnished to each of the Partners who shall be bound thereby unless some manifest error is disclosed within one calendar month, in which case such error shall be rectified immediately.</p>
+
+<!-- CLAUSE 15 -->
+<h2><span class="clause-num">15.</span> Duties of Each Partner</h2>
+<p>Each Partner shall:</p>
+<p>(a) Be just and faithful to the other Partners in all transactions relating to the partnership business;</p>
+<p>(b) Pay his separate debts and indemnify the other Partners and assets of the firm against the same and all other proceedings, costs, claims or demands in respect thereof;</p>
+<p>(c) Give full information and truthful explanations of all matters relating to the affairs of the partnership to all the Partners at all times.</p>
+
+<!-- CLAUSE 16 -->
+<h2><span class="clause-num">16.</span> Intellectual Property</h2>
+<p>(a) Intellectual property (including but not limited to software, patents, trademarks, designs, trade secrets, and proprietary know-how) shall be the property of the Firm <strong>only if</strong> it satisfies <strong>both</strong> of the following conditions:</p>
+<ul>
+  <li>It was explicitly created for the purpose of the Firm&rsquo;s business, as documented in writing or by mutual agreement of the Partners; <strong>and</strong></li>
+  <li>It was developed using the Firm&rsquo;s resources, funds, facilities, or during the course of work specifically undertaken on behalf of the Firm.</li>
+</ul>
+<p>(b) All intellectual property created by any Partner independently &mdash; outside the scope of the Firm&rsquo;s business, using their own resources, time, and effort &mdash; shall remain the <strong>sole and exclusive property of that Partner</strong>. The Firm shall have no claim, right, or interest in such independently created intellectual property.</p>
+<p>(c) Where a Partner wishes to license or contribute their independently created intellectual property for use by the Firm, the terms of such license or contribution (including scope, duration, exclusivity, and compensation, if any) shall be documented in a separate written agreement between the Partner and the Firm.</p>
+<p>(d) Upon retirement or exit of any Partner, intellectual property owned by the Firm as per Clause 16(a) shall remain with the Firm. Any independently owned intellectual property licensed to the Firm by the retiring Partner shall be governed by the terms of the respective license agreement.</p>
+<p>(e) The Partners acknowledge that each Partner may be engaged in their own independent business activities, ventures, and creative pursuits, and nothing in this Deed shall be construed to transfer ownership of any Partner&rsquo;s personal intellectual property to the Firm.</p>
+
+<!-- CLAUSE 17 -->
+<h2><span class="clause-num">17.</span> Non-Compete Clause</h2>
+<p>(a) No Partner shall, during the subsistence of the partnership, engage directly or indirectly in any business that competes with or is substantially similar to the business of the Firm, without the prior written consent of all other Partners.</p>
+<p>(b) Upon retirement or exit from the partnership, the retiring Partner shall not, for a period of <strong>two (2) years</strong> from the date of retirement, engage in any competing business within the State of Telangana and any other state where the Firm has active operations at the time of retirement.</p>
+
+<!-- CLAUSE 18 -->
+<h2><span class="clause-num">18.</span> Assigning of Share</h2>
+<p>None of the Partners shall be entitled to assign, mortgage or charge his share of interest in the partnership or any of its properties and assets without the prior written consent of all other Partners.</p>
+
+<!-- CLAUSE 19 -->
+<h2><span class="clause-num">19.</span> Induction of New Partner</h2>
+<p>A new Partner may be introduced with the unanimous consent of all the existing Partners on such terms and conditions as the Partners agree with the person to be introduced as a Partner in the firm.</p>
+
+<!-- CLAUSE 20 -->
+<h2><span class="clause-num">20.</span> Death / Insolvency / Retirement</h2>
+<p>(a) Death, insolvency or retirement of any Partner shall not dissolve the partnership, and the surviving or solvent Partners shall be entitled to continue the business.</p>
+<p>(b) In the case of death of a Partner, the legal heir(s) of the deceased Partner may be admitted into the partnership in the place of the deceased Partner, subject to the unanimous consent of the surviving Partners. If the surviving Partners do not consent to the admission of the legal heir(s), or if the legal heir(s) do not wish to join the partnership, the share of the deceased Partner shall be settled as per the valuation method described in Clause 21.</p>
+<p>(c) In the case of a legal heir being a minor, a guardian may represent the minor&rsquo;s interest until the minor attains the age of majority, at which point the minor may be formally admitted as a Partner with the consent of all existing Partners.</p>
+
+<!-- CLAUSE 21 -->
+<h2><span class="clause-num">21.</span> Valuation and Goodwill</h2>
+<p>Upon retirement, death, or exit of any Partner, the value of the outgoing Partner&rsquo;s share shall be determined based on:</p>
+<p>(a) The book value of assets and liabilities as per the most recent audited Balance Sheet;</p>
+<p>(b) Goodwill shall be valued at <strong>two (2) times the average net profit</strong> of the firm for the preceding three (3) financial years, or such other method as may be mutually agreed upon by the Partners;</p>
+<p>(c) The outgoing Partner&rsquo;s share of goodwill shall be proportionate to their profit-sharing ratio.</p>
+
+<!-- CLAUSE 22 -->
+<h2><span class="clause-num">22.</span> Retirement of a Partner</h2>
+<p>(a) In case a Partner wishes to retire from the partnership, he shall do so by giving <strong>sixty (60) days&rsquo; notice</strong> in writing to the firm as well as the other Partners.</p>
+<p>(b) The retiring Partner shall be entitled to receive the profits and bear the losses up to the date of retirement as shown by the Profit &amp; Loss Account taken up to that date.</p>
+<p>(c) The account of the retiring Partner shall be transferred to a loan account, which shall be settled within <strong>eleven (11) months</strong> from the date of retirement.</p>
+<p>(d) In case of delay in settling the loan account beyond eleven months, the firm shall pay interest at <strong>12% per annum</strong> on the outstanding amount until the date of settlement.</p>
+
+<!-- CLAUSE 23 -->
+<h2><span class="clause-num">23.</span> Variation Clause</h2>
+<p>Any of the above clauses may be altered, varied, or added to by the common written consent of all the Partners.</p>
+
+<!-- CLAUSE 24 -->
+<h2><span class="clause-num">24.</span> Dispute Resolution</h2>
+<p>(a) In case of any difference or dispute between the Partners in respect of the partnership business or interpretation of any clause of this Deed, the Partners shall first attempt to resolve the matter through <strong>mediation</strong> within thirty (30) days.</p>
+<p>(b) If mediation fails, the dispute shall be referred to an independent <strong>sole arbitrator</strong> mutually appointed by the Partners, or in the absence of agreement, appointed in accordance with the provisions of the <strong>Arbitration and Conciliation Act, 1996</strong> (as amended from time to time).</p>
+<p>(c) The seat of arbitration shall be <strong>Hyderabad, Telangana</strong>.</p>
+<p>(d) The decision of the arbitrator shall be final and binding on all Partners.</p>
+
+<!-- CLAUSE 25 -->
+<h2><span class="clause-num">25.</span> Partnership Act 1932</h2>
+<p>The provisions of the Indian Partnership Act, 1932 shall apply to these presents and to the Partners in all matters not covered by the terms hereof.</p>
+
+<hr class="section-divider">
+
+<!-- SIGNATURES -->
+<div class="signature-section">
+  <h2>In Witness Whereof</h2>
+  <p style="text-align: center;">The Partners hereto have signed this deed on the day, month and year herein above written.</p>
+
+  <div style="margin-top: 40px;">
+    <p><strong>WITNESSES:</strong></p>
+
+    <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+      <div style="width: 40%;">
+        <div style="margin-bottom: 60px;">
+          <p>1.</p>
+          <div class="sig-line"></div>
+          <p style="font-size: 10pt; color: #666;">Name &amp; Signature</p>
+        </div>
+        <div>
+          <p>2.</p>
+          <div class="sig-line"></div>
+          <p style="font-size: 10pt; color: #666;">Name &amp; Signature</p>
+        </div>
+      </div>
+
+      <div style="width: 50%;">
+        <p><strong>PARTNERS:</strong></p>
+
+        <div style="margin-bottom: 40px; margin-top: 15px;">
+          <div class="sig-line"></div>
+          <p class="sig-name">Mr. NADELLA PATTABHI RAMA RAO</p>
+          <p class="sig-role">(Party of the First Part)</p>
+        </div>
+
+        <div style="margin-bottom: 40px;">
+          <div class="sig-line"></div>
+          <p class="sig-name">Mr. NRUPAL C PRATTIPATI</p>
+          <p class="sig-role">(Party of the Second Part)</p>
+        </div>
+
+        <div style="margin-bottom: 40px;">
+          <div class="sig-line"></div>
+          <p class="sig-name">Mr. KOPPADA SRINIVAS</p>
+          <p class="sig-role">(Party of the Third Part)</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider" style="margin-top: 50px;">
+
+<h2 style="font-size: 11pt;">Appendix: Summary of Changes from Original Draft</h2>
+
+<table class="changes-table">
+  <thead>
+    <tr><th>#</th><th>Change</th><th>Reason</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Fixed &ldquo;THRID PART&rdquo; &rarr; &ldquo;THIRD PART&rdquo;</td><td>Typo correction</td></tr>
+    <tr><td>2</td><td>Fixed &ldquo;Streeczech colony&rdquo; &rarr; &ldquo;Street No. 1, Czech Colony&rdquo;</td><td>Typo correction</td></tr>
+    <tr><td>3</td><td>Standardized surname to &ldquo;PRATTIPATI&rdquo; throughout</td><td>Name consistency</td></tr>
+    <tr><td>4</td><td>Fixed duplicate witness numbering</td><td>Formatting error</td></tr>
+    <tr><td>5</td><td>Updated Arbitration Act reference from 1940 to 1996</td><td>The 1940 Act was repealed</td></tr>
+    <tr><td>6</td><td>Added Clause 10: Decision Making</td><td>No mechanism for resolving disagreements</td></tr>
+    <tr><td>7</td><td>Added Clause 16: Intellectual Property (partner-friendly)</td><td>Partners retain personal IP; only firm-commissioned work belongs to firm</td></tr>
+    <tr><td>8</td><td>Added Clause 17: Non-Compete Clause</td><td>Protects against competing businesses</td></tr>
+    <tr><td>9</td><td>Added Clause 21: Valuation and Goodwill</td><td>No method for valuing departing share</td></tr>
+    <tr><td>10</td><td>Added Clause 24(a): Mediation before Arbitration</td><td>Less adversarial first step</td></tr>
+    <tr><td>11</td><td>Added Clause 6(c): Capital withdrawal restriction</td><td>No restriction on withdrawing capital</td></tr>
+    <tr><td>12</td><td>Expanded Clause 20: Death/Insolvency</td><td>Addressed heir consent &amp; minor heirs</td></tr>
+    <tr><td>13</td><td>Numbered all clauses sequentially</td><td>Better readability &amp; legal referencing</td></tr>
+  </tbody>
+</table>
+
+</body>
+</html>

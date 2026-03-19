@@ -106,7 +106,13 @@ Interest at the rate of 12% per annum, or as may be prescribed under the provisi
 
 ## 9. MANAGEMENT
 
-All the Partners of the firm shall be **Working Partners** of the Firm. They are responsible for the conduct of business with full powers to do all such acts, matters and things deemed necessary, proper and expedient for carrying on the Partnership business. They shall be empowered to enter into agreements on behalf of the firm to acquire the assets required. They shall be empowered to mortgage the properties of the business for obtaining the loans for the partnership business, to receive payments on behalf of the firm and issue receipts, to make disbursements and incur expenditure during the course of conduct of business, to deal/negotiate/enter into all agreements with the Government Departments/banks and to do all such other acts necessary and expedient and incidental to carry on the partnership business.
+(a) The designation of Partners as **Working Partners** or **Sleeping (Non-Working) Partners** shall be decided by mutual discussion and agreement among all the Partners. Such designation may be reviewed and changed from time to time through a resolution passed at a Partners' meeting with the consent of all Partners.
+
+(b) Working Partners shall be responsible for the day-to-day conduct of business with full powers to do all such acts, matters and things deemed necessary, proper and expedient for carrying on the Partnership business. They shall be empowered to enter into agreements on behalf of the firm to acquire the assets required, to mortgage the properties of the business for obtaining loans for the partnership business, to receive payments on behalf of the firm and issue receipts, to make disbursements and incur expenditure during the course of conduct of business, to deal/negotiate/enter into all agreements with the Government Departments/banks and to do all such other acts necessary and expedient and incidental to carry on the partnership business.
+
+(c) Sleeping Partners shall not participate in the day-to-day management of the Firm but shall retain their right to access the books of accounts, receive periodic reports on the business, and participate in all major decisions as outlined in Clause 10.
+
+(d) Only Working Partners shall be entitled to remuneration as specified in Clause 12. Sleeping Partners shall be entitled to their share of profits and interest on capital as per their respective clauses.
 
 ## 10. DECISION MAKING
 
@@ -126,7 +132,7 @@ The First and Second Partners can borrow the funds for the purpose of business o
 
 ## 12. REMUNERATION TO PARTNERS
 
-Each working Partner of the firm is entitled to a monthly remuneration of up to Rs. 1,00,000/- (Rupees One Lakh Only), subject to the provisions of the Income Tax Act, 1961. This remuneration may be adjusted, either increased or decreased, through mutual agreement between the Partners.
+Each **Working Partner** of the firm is entitled to a monthly remuneration of up to Rs. 1,00,000/- (Rupees One Lakh Only), subject to the provisions of the Income Tax Act, 1961. This remuneration may be adjusted, either increased or decreased, through mutual agreement between the Partners. Sleeping (Non-Working) Partners shall not be entitled to remuneration but shall continue to receive their share of profits and interest on capital.
 
 ## 13. BANK ACCOUNTS
 
@@ -148,7 +154,18 @@ Each Partner shall:
 
 ## 16. INTELLECTUAL PROPERTY
 
-All intellectual property (including but not limited to software, patents, trademarks, designs, trade secrets, and proprietary know-how) created by any Partner or employee in the course of the partnership business shall be the exclusive property of the Firm. Upon retirement or exit of any Partner, such intellectual property shall remain with the Firm.
+(a) Intellectual property (including but not limited to software, patents, trademarks, designs, trade secrets, and proprietary know-how) shall be the property of the Firm **only if** it satisfies **both** of the following conditions:
+
+- It was explicitly created for the purpose of the Firm's business, as documented in writing or by mutual agreement of the Partners; **and**
+- It was developed using the Firm's resources, funds, facilities, or during the course of work specifically undertaken on behalf of the Firm.
+
+(b) All intellectual property created by any Partner independently — outside the scope of the Firm's business, using their own resources, time, and effort — shall remain the **sole and exclusive property of that Partner**. The Firm shall have no claim, right, or interest in such independently created intellectual property.
+
+(c) Where a Partner wishes to license or contribute their independently created intellectual property for use by the Firm, the terms of such license or contribution (including scope, duration, exclusivity, and compensation, if any) shall be documented in a separate written agreement between the Partner and the Firm.
+
+(d) Upon retirement or exit of any Partner, intellectual property owned by the Firm as per Clause 16(a) shall remain with the Firm. Any independently owned intellectual property licensed to the Firm by the retiring Partner shall be governed by the terms of the respective license agreement.
+
+(e) The Partners acknowledge that each Partner may be engaged in their own independent business activities, ventures, and creative pursuits, and nothing in this Deed shall be construed to transfer ownership of any Partner's personal intellectual property to the Firm.
 
 ## 17. NON-COMPETE CLAUSE
 
@@ -248,7 +265,7 @@ The Partners hereto have signed this deed on the day, month and year herein abov
 | 4 | Fixed duplicate witness numbering | Formatting error |
 | 5 | Updated Arbitration Act reference from 1940 to **1996** | The 1940 Act was repealed |
 | 6 | Added **Clause 10: Decision Making** | Original had no mechanism for resolving disagreements |
-| 7 | Added **Clause 16: Intellectual Property** | Business includes software/R&D; IP ownership must be defined |
+| 7 | Added **Clause 16: Intellectual Property** (partner-friendly) | Partners retain personal IP; only firm-commissioned work using firm resources belongs to firm |
 | 8 | Added **Clause 17: Non-Compete Clause** | Protects the firm from Partners starting competing businesses |
 | 9 | Added **Clause 21: Valuation and Goodwill** | Original had no method for valuing a departing Partner's share |
 | 10 | Added **Clause 24(a): Mediation before Arbitration** | Provides a less adversarial first step for dispute resolution |
