@@ -14,24 +14,7 @@
 
 The above parties hereinafter referred to as **"Partners"**.
 
-**WHEREAS** the above parties hereto agreed to constitute a partnership between themselves to carry out in India or elsewhere the business to engage in the business of Generation, distribution, and sale of renewable energy and power solutions including but not limited to solar, wind, and hybrid energy systems for residential, commercial, and industrial establishments.
-
-### Ancillary Activities:
-
-- Installation, commissioning, operations, and maintenance of renewable energy systems
-- Energy consulting, auditing, and advisory services
-- Trading, procurement, and supply of solar panels, inverters, batteries, and related equipment
-- Execution and management of Power Purchase Agreements (PPAs) and energy service contracts
-- Net metering coordination and liaison with government bodies, DISCOMs, and regulatory authorities
-- Energy monitoring, billing, and metering services
-- Electrical contracting and infrastructure works
-- Import and export of renewable energy equipment and components
-- Real estate and rooftop leasing for energy generation purposes
-- Software development and IT services for energy management and monitoring
-- Research, development, and training in renewable energy technologies
-- Any other lawful business as the Partners may decide from time to time as may be agreed upon by all the Partners from time to time
-
-under the name and style of **"M/s. BRIGHT ROOF POWER SYSTEMS"**.
+**WHEREAS** the above parties hereto agreed to constitute a partnership between themselves to carry out in India or elsewhere the business of Generation, distribution, and sale of renewable energy and power solutions including but not limited to solar, wind, and hybrid energy systems for residential, commercial, and industrial establishments, along with such ancillary activities as more particularly described in Clause 4 herein, under the name and style of **"M/s. BRIGHT ROOF POWER SYSTEMS"**.
 
 **WHEREAS** all the above parties hereinafter also referred to as Partners, which expression unless repugnant with the subject or context shall mean and include not only the said Partners but also their heirs, executors, administrators and assignors of the Partners.
 
@@ -169,9 +152,11 @@ Each Partner shall:
 
 ## 17. NON-COMPETE CLAUSE
 
-(a) No Partner shall, during the subsistence of the partnership, engage directly or indirectly in any business that competes with or is substantially similar to the business of the Firm, without the prior written consent of all other Partners.
+(a) No Partner shall, during the subsistence of the partnership, engage directly or indirectly in any business that **directly** competes with the Firm's active projects or contracts, without the prior written consent of all other Partners.
 
-(b) Upon retirement or exit from the partnership, the retiring Partner shall not, for a period of **two (2) years** from the date of retirement, engage in any competing business within the State of Telangana and any other state where the Firm has active operations at the time of retirement.
+(b) For the avoidance of doubt, this clause shall not restrict any Partner from engaging in independent business activities, ventures, or creative pursuits that do not directly compete with the Firm's existing and active engagements. The Partners acknowledge that given the broad scope of the Firm's business as described in Clause 4, each Partner may have overlapping interests in related fields, and mere overlap in industry or domain shall not constitute a breach of this clause.
+
+(c) Upon retirement or exit from the partnership, the retiring Partner shall not, for a period of **two (2) years** from the date of retirement, directly solicit or divert the Firm's existing clients or ongoing contracts to a competing business within the State of Telangana and any other state where the Firm has active operations at the time of retirement.
 
 ## 18. ASSIGNING OF SHARE
 
@@ -188,6 +173,8 @@ A new Partner may be introduced with the unanimous consent of all the existing P
 (b) In the case of death of a Partner, the legal heir(s) of the deceased Partner may be admitted into the partnership in the place of the deceased Partner, subject to the unanimous consent of the surviving Partners. If the surviving Partners do not consent to the admission of the legal heir(s), or if the legal heir(s) do not wish to join the partnership, the share of the deceased Partner shall be settled as per the valuation method described in Clause 21.
 
 (c) In the case of a legal heir being a minor, a guardian may represent the minor's interest until the minor attains the age of majority, at which point the minor may be formally admitted as a Partner with the consent of all existing Partners.
+
+(d) The procedure and terms for retirement of a Partner shall be as detailed in Clause 22.
 
 ## 21. VALUATION AND GOODWILL
 
