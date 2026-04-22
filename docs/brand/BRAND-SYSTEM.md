@@ -100,13 +100,16 @@ Never use an exclamation mark in the tagline. Never translate it mechanically; l
 
 ## 6. Logo system
 
+The sun is the hero of the brand. In every mark, the amber sun is the dominant shape; the roof peak is the quiet signature inside it.
+
 | File | Use |
 |---|---|
-| `logos/01-horizon.svg` | Primary mark. Default on letterheads, PPA covers, signage. |
-| `logos/02-ray.svg` | Secondary / digital mark. App icon bases, favicons on dark, loaders. |
-| `logos/03-seal.svg` | Badge / stamp form. Social avatars, stickers, WhatsApp profile. |
-| `logos/04-wordmark-horizontal.svg` | Horizontal lockup. Email signatures, invoice header. |
-| `logos/05-wordmark-stacked.svg` | Stacked lockup. PPA cover page, posters. |
+| `logos/07-sunburst.svg` | **Primary mark — "Sunburst".** 12-ray amber sun with navy roof peak at centre. Default for everything: letterheads, PPA covers, signage, app icon, website favicon. |
+| `logos/06-sundial.svg` | Alternate — "Sundial". Full amber sun behind an apartment-skyline silhouette. For warm residential contexts (society pitch decks, leaflets, field signage). |
+| `logos/03-seal.svg` | Badge form — "Seal". Navy disc with cream rays + amber sun inside. Social avatars, stickers, WhatsApp profile, wax-seal-style stamp. |
+| `logos/04-wordmark-horizontal.svg` | Horizontal lockup: sunburst + "Bright Roof / POWER SYSTEMS / Solar that stays." Email signatures, invoice header. |
+| `logos/05-wordmark-stacked.svg` | Stacked lockup: sunburst above wordmark. PPA cover page, posters, deck covers. |
+| `logos/01-horizon.svg`, `logos/02-ray.svg` | Earlier drafts kept for reference. Not for new production use. |
 
 ### Logo rules
 
@@ -193,7 +196,7 @@ Prompts are in `prompts/marketing-imagery.md`.
 
 ## 11. Open questions
 
-- [ ] **Pick one logo direction** from the three drafts — Horizon / Ray / Seal — before locking the system. Recommend **Horizon** as primary, **Seal** as secondary for avatars.
+- [ ] Confirm **Sunburst** as the primary mark (recommended) — alternative is **Sundial** for warmer, more literal contexts. **Seal** is locked as the badge/avatar form.
 - [ ] Confirm **tagline** — *Solar that stays.* — with partners.
 - [ ] Confirm **colour palette** vs. a safer navy-only option for a first conservative audience (traditional apartment society committees).
 - [ ] Do we want a **Telugu/Hindi wordmark** variant? If yes, we commission a Devanagari/Telugu match for Fraunces (look at Ek Mukta or Tiro Devanagari for Hindi).

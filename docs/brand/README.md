@@ -7,11 +7,13 @@ The complete brand stack for **M/s. Bright Roof Power Systems**.
 | File | What it is |
 |---|---|
 | `BRAND-SYSTEM.md` | The master brand document — tone, colour, type, logo rules, voice, roadmap. Start here. |
-| `logos/01-horizon.svg` | **Primary logo — "Horizon".** Pitched roof over a rising amber sun. Literal, warm, works everywhere. |
-| `logos/02-ray.svg` | Secondary — "Ray". Geometric sunburst. More abstract, more digital. |
-| `logos/03-seal.svg` | Badge form — "Seal". Navy disc with sun + roof inside. For avatars, stickers, favicons. |
-| `logos/04-wordmark-horizontal.svg` | Horizontal lockup: mark + "Bright Roof" + "POWER SYSTEMS" + tagline. For letterheads, email signatures. |
-| `logos/05-wordmark-stacked.svg` | Stacked lockup: mark above name. For PPA covers, posters, deck covers. |
+| `logos/07-sunburst.svg` | **Primary logo — "Sunburst".** Amber sun with 12 rays and a small navy roof peak at its heart. The sun is the hero; the roof is the signature. |
+| `logos/06-sundial.svg` | Alternate — "Sundial". Full amber sun behind a small Hyderabad-style apartment skyline silhouette. For warmer, residential contexts. |
+| `logos/03-seal.svg` | Badge form — "Seal". Navy disc with sun + rays inside. For avatars, stickers, favicons. |
+| `logos/02-ray.svg` | Earlier draft — "Ray". Sun at a horizon with rays radiating up. Kept for reference. |
+| `logos/01-horizon.svg` | Earlier draft — "Horizon". Roof silhouette over a rising sun. Kept for reference. |
+| `logos/04-wordmark-horizontal.svg` | Horizontal lockup (sunburst mark + wordmark + tagline). For letterheads, email signatures, invoices. |
+| `logos/05-wordmark-stacked.svg` | Stacked lockup (sunburst mark over wordmark). For PPA covers, posters, deck covers. |
 | `prompts/marketing-imagery.md` | Prompts to generate marketing photography and illustrations via ChatGPT / Midjourney / Stitch. |
 
 ## Quick-pick colours
@@ -43,7 +45,7 @@ The complete brand stack for **M/s. Bright Roof Power Systems**.
 - Three logo directions drafted
 
 **Open — needs partner decision:**
-- [ ] Which of the three logo directions is the primary? (Nrupal's recommendation: **Horizon**, with **Seal** as digital/avatar variant.)
+- [ ] Confirm **Sunburst** as primary (with **Sundial** as the warmer alternate and **Seal** for avatars/social). Horizon / Ray kept as earlier drafts for reference.
 - [ ] Is **"Solar that stays."** the tagline, or do we A/B it with two alternatives?
 - [ ] Do we commission a Telugu/Hindi wordmark variant? (Likely needed for customer-facing print in Hyderabad.)
 - [ ] Which logo lockup goes on the **PPA cover page** once we freeze v1.0 of the PPA?
