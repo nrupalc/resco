@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bright Roof — Tech Mono wordmark">
+  <title>Option B — Tech Mono</title>
+  <!-- Navy panel -->
+  <rect width="1200" height="360" fill="#0E1E4D"/>
+  <!-- Minimal amber sun with roof notch cut out -->
+  <g transform="translate(80 140)">
+    <circle cx="40" cy="40" r="40" fill="#F5A524"/>
+    <path d="M 14 62 L 40 34 L 66 62 Z" fill="#0E1E4D"/>
+  </g>
+  <!-- Wordmark: bold geometric sans, all caps, wide tracking -->
+  <text x="200" y="185" fill="#FAF6EE" font-family="'Space Grotesk','Aeonik','Geist','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="96" letter-spacing="2">BRIGHT ROOF</text>
+  <!-- Mono tagline / metadata -->
+  <text x="200" y="235" fill="#F5A524" font-family="'JetBrains Mono','IBM Plex Mono','SF Mono',Menlo,monospace" font-weight="400" font-size="20" letter-spacing="4">POWER_SYSTEMS // SOLAR THAT STAYS.</text>
+</svg>
