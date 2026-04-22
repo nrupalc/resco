@@ -1,0 +1,9 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bright Roof — Horizon mark">
+  <title>Bright Roof — Horizon</title>
+  <!-- Rising sun, large and clearly behind -->
+  <circle cx="200" cy="200" r="110" fill="#F5A524"/>
+  <!-- Low, wide pitched-roof silhouette sitting ON the horizon -->
+  <path d="M 92 240 L 200 140 L 308 240 Z" fill="#0E1E4D"/>
+  <!-- Horizon baseline -->
+  <rect x="40" y="240" width="320" height="12" rx="6" fill="#0E1E4D"/>
+</svg>

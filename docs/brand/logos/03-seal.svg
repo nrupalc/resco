@@ -1,0 +1,19 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bright Roof — Seal mark">
+  <title>Bright Roof — Seal</title>
+  <!-- Navy disc -->
+  <circle cx="120" cy="120" r="120" fill="#0E1E4D"/>
+  <!-- Inner cream hairline -->
+  <circle cx="120" cy="120" r="108" fill="none" stroke="#FAF6EE" stroke-width="2" opacity="0.25"/>
+  <!-- Amber sun on the horizon line -->
+  <circle cx="120" cy="150" r="36" fill="#F5A524"/>
+  <!-- Horizon -->
+  <rect x="30" y="148" width="180" height="4" rx="2" fill="#FAF6EE"/>
+  <!-- Cream rays radiating up -->
+  <g stroke="#FAF6EE" stroke-width="10" stroke-linecap="round">
+    <line x1="120" y1="38" x2="120" y2="96"/>
+    <line x1="74" y1="52" x2="90" y2="102"/>
+    <line x1="166" y1="52" x2="150" y2="102"/>
+    <line x1="40" y1="84" x2="72" y2="116"/>
+    <line x1="200" y1="84" x2="168" y2="116"/>
+  </g>
+</svg>

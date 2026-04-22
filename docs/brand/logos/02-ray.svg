@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bright Roof — Ray mark">
+  <title>Bright Roof — Ray</title>
+  <!-- Horizon baseline -->
+  <rect x="40" y="240" width="320" height="12" rx="6" fill="#0E1E4D"/>
+  <!-- Amber sun at horizon -->
+  <circle cx="200" cy="240" r="56" fill="#F5A524"/>
+  <!-- Navy rays radiating up -->
+  <g stroke="#0E1E4D" stroke-width="16" stroke-linecap="round">
+    <line x1="200" y1="60" x2="200" y2="150"/>
+    <line x1="128" y1="80" x2="160" y2="158"/>
+    <line x1="272" y1="80" x2="240" y2="158"/>
+    <line x1="72" y1="130" x2="122" y2="180"/>
+    <line x1="328" y1="130" x2="278" y2="180"/>
+  </g>
+</svg>
