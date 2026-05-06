@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bright Roof Power Systems logo exploration I — Terrace Grid">
+  <title>Bright Roof Power Systems Logo Exploration I — Terrace Grid</title>
+  <rect width="1280" height="720" fill="#FAF6EE"/>
+  <g transform="translate(98 118)">
+    <circle cx="174" cy="146" r="110" fill="#F5A524"/>
+    <path d="M22 226 H116 L174 170 L232 226 H326 V264 H22 Z" fill="#0E1E4D"/>
+    <g fill="#FAF6EE" opacity="0.95">
+      <rect x="60" y="280" width="66" height="44" rx="6"/>
+      <rect x="136" y="280" width="66" height="44" rx="6"/>
+      <rect x="212" y="280" width="66" height="44" rx="6"/>
+      <rect x="60" y="334" width="66" height="44" rx="6"/>
+      <rect x="136" y="334" width="66" height="44" rx="6"/>
+      <rect x="212" y="334" width="66" height="44" rx="6"/>
+    </g>
+    <rect x="22" y="264" width="304" height="136" rx="14" fill="#0E1E4D"/>
+    <g stroke="#FAF6EE" stroke-width="4" opacity="0.9">
+      <line x1="123" y1="264" x2="123" y2="400"/>
+      <line x1="224" y1="264" x2="224" y2="400"/>
+      <line x1="22" y1="332" x2="326" y2="332"/>
+    </g>
+  </g>
+  <g transform="translate(548 166)">
+    <text x="0" y="116" fill="#0E1E4D" font-family="'Georgia',serif" font-size="92" font-weight="700">Bright Roof</text>
+    <text x="8" y="180" fill="#C75B3C" font-family="'Arial',sans-serif" font-size="26" font-weight="700" letter-spacing="4">POWER SYSTEMS</text>
+    <line x1="8" y1="224" x2="116" y2="224" stroke="#F5A524" stroke-width="6" stroke-linecap="round"/>
+    <text x="8" y="286" fill="#2C3444" font-family="'Georgia',serif" font-size="40" font-style="italic">The roof becomes the power bill reduction.</text>
+    <text x="8" y="372" fill="#2C3444" font-family="'Arial',sans-serif" font-size="28">A more literal direction that ties the mark directly to rooftop solar hardware.</text>
+  </g>
+</svg>

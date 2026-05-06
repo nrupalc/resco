@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bright Roof Power Systems logo exploration G — Courtyard">
+  <title>Bright Roof Power Systems Logo Exploration G — Courtyard</title>
+  <rect width="1280" height="720" fill="#FAF6EE"/>
+  <g transform="translate(96 112)">
+    <circle cx="170" cy="170" r="148" fill="#F5A524"/>
+    <path d="M20 260 H74 V206 H130 L170 164 L210 206 H234 V184 H286 L326 128 L366 184 H438 V260 Z" fill="#0E1E4D"/>
+    <rect x="0" y="258" width="460" height="18" rx="9" fill="#0E1E4D"/>
+    <circle cx="170" cy="170" r="148" fill="none" stroke="#0E1E4D" stroke-width="4" opacity="0.12"/>
+  </g>
+  <g transform="translate(574 172)">
+    <text x="0" y="122" fill="#0E1E4D" font-family="'Georgia',serif" font-size="94" font-weight="700">Bright Roof</text>
+    <text x="6" y="180" fill="#C75B3C" font-family="'Arial',sans-serif" font-size="26" font-weight="700" letter-spacing="4">POWER SYSTEMS</text>
+    <line x1="6" y1="226" x2="126" y2="226" stroke="#F5A524" stroke-width="6" stroke-linecap="round"/>
+    <text x="6" y="284" fill="#2C3444" font-family="'Georgia',serif" font-size="42" font-style="italic">Solar that stays.</text>
+    <text x="6" y="372" fill="#2C3444" font-family="'Arial',sans-serif" font-size="28" font-weight="400">Residential-first solar for apartment societies.</text>
+  </g>
+</svg>

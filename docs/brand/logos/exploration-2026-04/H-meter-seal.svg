@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bright Roof Power Systems logo exploration H — Meter Seal">
+  <title>Bright Roof Power Systems Logo Exploration H — Meter Seal</title>
+  <rect width="1280" height="720" fill="#FAF6EE"/>
+  <g transform="translate(108 96)">
+    <circle cx="180" cy="180" r="166" fill="#FAF6EE" stroke="#0E1E4D" stroke-width="8"/>
+    <circle cx="180" cy="180" r="118" fill="#F5A524"/>
+    <circle cx="180" cy="180" r="146" fill="none" stroke="#0E1E4D" stroke-width="2.5" opacity="0.24"/>
+    <g stroke="#0E1E4D" stroke-width="6" stroke-linecap="round">
+      <line x1="180" y1="42" x2="180" y2="72"/>
+      <line x1="272" y1="88" x2="250" y2="108"/>
+      <line x1="318" y1="180" x2="288" y2="180"/>
+      <line x1="272" y1="272" x2="250" y2="250"/>
+      <line x1="180" y1="318" x2="180" y2="288"/>
+      <line x1="88" y1="272" x2="108" y2="250"/>
+      <line x1="42" y1="180" x2="72" y2="180"/>
+      <line x1="88" y1="88" x2="108" y2="108"/>
+    </g>
+    <path d="M124 218 L180 146 L236 218 Z" fill="#0E1E4D"/>
+    <rect x="74" y="214" width="212" height="16" rx="8" fill="#0E1E4D"/>
+  </g>
+  <g transform="translate(572 168)">
+    <text x="0" y="110" fill="#0E1E4D" font-family="'Georgia',serif" font-size="90" font-weight="700">Bright Roof</text>
+    <text x="6" y="168" fill="#2C3444" font-family="'Arial',sans-serif" font-size="26" font-weight="700" letter-spacing="4">POWER SYSTEMS</text>
+    <line x1="6" y1="214" x2="118" y2="214" stroke="#F5A524" stroke-width="6" stroke-linecap="round"/>
+    <text x="6" y="272" fill="#2C3444" font-family="'Georgia',serif" font-size="42" font-style="italic">Built like infrastructure, not a startup.</text>
+    <text x="6" y="356" fill="#C75B3C" font-family="'Arial',sans-serif" font-size="28" font-weight="700" letter-spacing="7">HYDERABAD · LONG-TERM PPAs · RESIDENTIAL SOLAR</text>
+  </g>
+</svg>
