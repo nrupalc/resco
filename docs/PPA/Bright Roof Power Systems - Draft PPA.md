@@ -4,7 +4,7 @@
 
 ## BY AND BETWEEN:
 
-1. **M/s. BRIGHT ROOF POWER SYSTEMS**, a partnership firm constituted under the Indian Partnership Act, 1932, having its principal place of business at Door No. 7-2-1813/5/A/1/5038, Rolin Arcade, Street No. 1, Czech Colony, Sanathnagar, Hyderabad, Telangana – 500018, represented by its authorised Partner **[_________________________]** (hereinafter referred to as the **"Company"**, which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns) of the **ONE PART**;
+1. **M/s. BRIGHT ROOF POWER SYSTEMS**, a partnership firm constituted under the Indian Partnership Act, 1932, having its principal place of business at 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana, represented by its authorised Partner **[_________________________]** (hereinafter referred to as the **"Company"**, which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns) of the **ONE PART**;
 
 ## AND
 

@@ -12,7 +12,7 @@
 
 ### BY AND BETWEEN
 
-**M/s. BRIGHT ROOF POWER SYSTEMS**, a partnership firm duly constituted under the Indian Partnership Act, 1932, having its principal place of business at Door No. 7-2-1813/5/A/1/5038, Rolin Arcade, Street No. 1, Czech Colony, Sanathnagar, Hyderabad, Telangana – 500018, represented herein by its authorised Partner(s) [[*Name of authorised partner*]] (hereinafter referred to as the "**RESCO**" or the "**Company**", which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns);
+**M/s. BRIGHT ROOF POWER SYSTEMS**, a partnership firm duly constituted under the Indian Partnership Act, 1932, having its principal place of business at 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana, represented herein by its authorised Partner(s) [[*Name of authorised partner*]] (hereinafter referred to as the "**Company**", which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns);
 
 ### AND
 
@@ -230,7 +230,7 @@ subject to reasonable extensions for Force Majeure and parts lead times beyond t
 
   - [Option A — Flat] The Base Tariff shall remain fixed for the entire Term.
   - [Option B — Fixed escalation] The Tariff shall escalate by **3%** on each anniversary of the COD.
-  - [Option C — Fixed discount vs grid] The Tariff for each Contract Year shall be the lower of (i) the preceding year's Tariff escalated by 3%, or (ii) the prevailing TSSPDCL residential slab tariff (weighted average of slabs 200-500 and above-500) **less Rs. 2.00 per kWh**.
+  - [Option C — Percentage discount vs grid] The Tariff for each Contract Year shall be set at **90% of the agreed benchmark grid tariff** for the applicable solar units consumed or offset, subject to final bill review and legal review.
 
 The escalation option chosen is: **[[*A / B / C*]]**, recorded in Schedule 3.
 

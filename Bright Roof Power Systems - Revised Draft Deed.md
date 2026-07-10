@@ -57,7 +57,7 @@ The objects of partnership shall be to carry on in India or elsewhere the busine
 
 ## 5. PLACE OF BUSINESS
 
-The place of business shall be at Door No. 7-2-1813/5/A/1/5038, Rolin Arcade, Street No. 1, Czech Colony, Sanathnagar, Hyderabad, Telangana – 500018 and/or such other places as the Partners may from time to time determine.
+The place of business shall be at 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana and/or such other places as the Partners may from time to time determine.
 
 ## 6. CAPITAL CONTRIBUTION
 

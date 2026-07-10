@@ -8,6 +8,14 @@
 
 Bright Roof Power Systems ("**Bright Roof**" for short) is a rooftop-solar company based in **Hyderabad, India**. We design, finance, install, own, and operate grid-connected solar photovoltaic systems on the rooftops of residential apartment societies, and sell the electricity generated to the residents at a rate **below their existing grid tariff**, under a long-term Power Purchase Agreement.
 
+Official website domain: **www.brightroofpower.com**.
+
+Company phone: **+91 93902 10407**.
+
+Company support email: **support@brightroofpower.com**.
+
+Company address: **8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana**.
+
 We are a **partnership firm** in Year Zero — three registered partners, two non-registered contributors, a clear equity structure, a first pilot building, and a three-to-five-year plan to scale to a hundred installations.
 
 We are the opposite of a solar panel *reseller*. We are a long-term utility-like *service provider*. Our customers sign 15–25 year contracts with us. That is the most important fact about who we are.

@@ -1,0 +1,160 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Bright Roof home" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e5]:
+        - strong [ref=e6]: Bright Roof Power Systems
+        - emphasis [ref=e7]: Solar that stays.
+    - navigation "Primary navigation" [ref=e8]:
+      - link "How it works" [ref=e9] [cursor=pointer]:
+        - /url: /#how
+      - link "Savings" [ref=e10] [cursor=pointer]:
+        - /url: /#savings
+      - link "FAQ" [ref=e11] [cursor=pointer]:
+        - /url: /#faq
+    - link "Get Assessment" [ref=e12] [cursor=pointer]:
+      - /url: /#assessment
+  - main [ref=e13]:
+    - generic [ref=e17]:
+      - heading "Free solar panel installation terms apply" [level=1] [ref=e18]:
+        - text: Free solar panel installation
+        - generic "terms apply" [ref=e19]:
+          - img [ref=e20]
+      - paragraph [ref=e22]: Bright Roof installs, owns, and maintains the rooftop solar system. Your society pays only for the electricity it uses, below your current grid tariff.
+      - generic "Primary actions" [ref=e23]:
+        - link "Schedule rooftop assessment" [ref=e24] [cursor=pointer]:
+          - /url: "#assessment"
+        - link "Call +91 93902 10407" [ref=e25] [cursor=pointer]:
+          - /url: tel:+919390210407
+    - region "Bright Roof promises" [ref=e26]:
+      - article [ref=e27]:
+        - img [ref=e29]
+        - generic [ref=e31]:
+          - heading "No upfront system cost" [level=2] [ref=e32]
+          - paragraph [ref=e33]: Zero capital investment from your society.
+      - article [ref=e34]:
+        - img [ref=e36]
+        - generic [ref=e38]:
+          - heading "Owned and maintained by Bright Roof" [level=2] [ref=e39]
+          - paragraph [ref=e40]: We install, insure, operate, and maintain. You relax.
+      - article [ref=e41]:
+        - img [ref=e43]
+        - generic [ref=e45]:
+          - heading "Fixed below-grid rate" [level=2] [ref=e46]
+          - paragraph [ref=e47]: You pay a predictable rate below your current tariff.
+      - article [ref=e48]:
+        - img [ref=e50]
+        - generic [ref=e53]:
+          - heading "Local Hyderabad team" [level=2] [ref=e54]
+          - paragraph [ref=e55]: Local service. Faster response. Always around.
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - heading "How it works" [level=2] [ref=e59]
+        - paragraph [ref=e60]: Simple for your society. Seamless from day one.
+      - generic [ref=e61]:
+        - article [ref=e62]:
+          - generic [ref=e63]: "01"
+          - heading "Assessment" [level=3] [ref=e64]
+          - paragraph [ref=e65]: We evaluate your rooftop, current bills, and connected load.
+          - generic [ref=e66]: /
+        - article [ref=e67]:
+          - generic [ref=e68]: "02"
+          - heading "Agreement" [level=3] [ref=e69]
+          - paragraph [ref=e70]: We sign a simple long-term agreement. Bright Roof handles the system.
+          - generic [ref=e71]: /
+        - article [ref=e72]:
+          - generic [ref=e73]: "03"
+          - heading "Installation" [level=3] [ref=e74]
+          - paragraph [ref=e75]: We install the system with zero disruption to residents.
+          - generic [ref=e76]: /
+        - article [ref=e77]:
+          - generic [ref=e78]: "04"
+          - heading "Generate & Save" [level=3] [ref=e79]
+          - paragraph [ref=e80]: You use clean solar power and pay a fixed rate below your grid tariff.
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - heading "Savings example" [level=2] [ref=e83]
+        - paragraph [ref=e84]: Typical 100 kW rooftop system
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - term [ref=e87]: Monthly Generation
+          - definition [ref=e88]: 13,000
+          - text: units
+        - generic [ref=e89]:
+          - term [ref=e90]: Current Grid Tariff Avg.
+          - definition [ref=e91]: Rs. 9.00
+          - text: per unit
+        - generic [ref=e92]:
+          - term [ref=e93]: Bright Roof Fixed Rate
+          - definition [ref=e94]: Rs. 6.00
+          - text: example
+        - generic [ref=e95]:
+          - term [ref=e96]: Monthly Savings
+          - definition [ref=e97]: Rs. 39,000
+          - text: approx.
+      - generic [ref=e98]:
+        - strong [ref=e99]: Save ~Rs. 4.5 to Rs. 5 per unit.
+        - paragraph [ref=e100]: Predictable savings, every month. Savings vary by rooftop size, usage, and tariffs.
+    - region "Built to last" [ref=e101]:
+      - heading "Built to last. Backed by Bright Roof." [level=2] [ref=e102]
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - img [ref=e105]
+          - generic [ref=e108]: High-quality solar modules and inverters
+        - generic [ref=e109]:
+          - img [ref=e110]
+          - generic [ref=e112]: Comprehensive insurance and performance guarantee
+        - generic [ref=e113]:
+          - img [ref=e114]
+          - generic [ref=e117]: 24/7 system monitoring and proactive maintenance
+        - generic [ref=e118]:
+          - img [ref=e119]
+          - generic [ref=e122]: Dedicated local support team in Hyderabad
+    - generic [ref=e123]:
+      - heading "Solar without a handover cliff." [level=2] [ref=e126]
+      - paragraph [ref=e127]: Many rooftop deals are built around installing equipment and handing responsibility back to the society later. Bright Roof keeps the system ours, monitors it, maintains it, and stays accountable for the full agreement life.
+      - paragraph [ref=e128]: That matters for society committees. It keeps solar from becoming another maintenance headache, and it gives residents a local team to call when something needs attention.
+    - generic [ref=e129]:
+      - generic [ref=e130]:
+        - heading "FAQ" [level=2] [ref=e132]
+        - paragraph [ref=e133]: Plain answers before your committee meeting.
+      - generic [ref=e134]:
+        - group [ref=e135]:
+          - generic "Is installation really free? +" [ref=e136] [cursor=pointer]
+        - group [ref=e137]:
+          - generic "Who owns the system? +" [ref=e138] [cursor=pointer]
+        - group [ref=e139]:
+          - generic "Will the roof be protected? +" [ref=e140] [cursor=pointer]
+        - group [ref=e141]:
+          - generic "What does the star mean? +" [ref=e142] [cursor=pointer]
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - heading "Ready to see what your rooftop can generate?" [level=2] [ref=e145]
+        - paragraph [ref=e146]: Send us a recent electricity bill and rooftop access details. We will estimate system size, monthly generation, and likely savings for your society.
+        - generic [ref=e147]:
+          - link "Call +91 93902 10407" [ref=e148] [cursor=pointer]:
+            - /url: tel:+919390210407
+          - link "Email Bright Roof" [ref=e149] [cursor=pointer]:
+            - /url: mailto:hello@brightroofpower.com
+      - generic [ref=e150]:
+        - strong [ref=e151]: M/s. Bright Roof Power Systems
+        - generic [ref=e152]: 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana
+  - contentinfo [ref=e153]:
+    - paragraph [ref=e155]: Solar that stays.
+    - generic [ref=e156]:
+      - strong [ref=e157]: M/s. Bright Roof Power Systems
+      - generic [ref=e158]: 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana
+      - link "+91 93902 10407" [ref=e159] [cursor=pointer]:
+        - /url: tel:+919390210407
+      - link "hello@brightroofpower.com" [ref=e160] [cursor=pointer]:
+        - /url: mailto:hello@brightroofpower.com
+    - navigation "Legal and site links" [ref=e161]:
+      - link "Privacy Policy" [ref=e162] [cursor=pointer]:
+        - /url: /privacy
+      - link "Data Policy" [ref=e163] [cursor=pointer]:
+        - /url: /data-policy
+      - link "Terms of Service" [ref=e164] [cursor=pointer]:
+        - /url: /terms
+      - link "Sitemap" [ref=e165] [cursor=pointer]:
+        - /url: /sitemap.xml
+      - button "Privacy choices" [ref=e166] [cursor=pointer]

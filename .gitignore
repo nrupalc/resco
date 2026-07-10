@@ -1,5 +1,11 @@
 # OS files
 .DS_Store
 
+# App build artifacts
+node_modules/
+dist/
+apps/*/node_modules/
+apps/*/dist/
+
 # Identity documents - sensitive PII, never commit
 id-docs/

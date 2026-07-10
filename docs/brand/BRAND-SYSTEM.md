@@ -1,7 +1,7 @@
 # Bright Roof — Brand System
 
-**Version:** 0.1 (working draft)
-**Last updated:** 2026-04-22
+**Version:** 0.2 (working draft)
+**Last updated:** 2026-05-09
 
 ---
 
@@ -25,8 +25,13 @@ Every design decision should pass this test: *"Does this feel like the first min
 
 - **Legal name:** M/s. Bright Roof Power Systems
 - **Short name:** Bright Roof
+- **Website:** www.brightroofpower.com
+- **Support email:** support@brightroofpower.com
+- **Phone:** +91 93902 10407
+- **Address:** 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana
 - **Tagline (primary):** *Solar that stays.*
 - **Tagline (long form, for pitches):** *Long-term solar for long-term homes.*
+- **Naming rule:** The company name is **Bright Roof Power Systems**. `RESCO` is only the project/business-model term and must not be used as the company name in external documents.
 
 Never use an exclamation mark in the tagline. Never translate it mechanically; leave it in English across Telugu/Hindi materials — it reads as a signature.
 
@@ -104,6 +109,12 @@ The sun is the hero of the brand. In every mark, the amber sun is the dominant s
 
 | File | Use |
 |---|---|
+| `logos/final/bright-roof-final-logo-original.jpg` | **Final approved logo.** Supplied 2026-05-08. Use for external documents until a vector master is created. |
+| `logos/final/bright-roof-final-logo-cropped.png` | Cropped final logo retained for cases that explicitly need a white-background raster. |
+| `logos/final/bright-roof-final-logo-transparent.png` | Normal light-mode transparent logo for cream paper, visiting cards, web pages, and other non-white placements. |
+| `logos/final/bright-roof-final-logo-transparent-1024.png`, `logos/final/bright-roof-final-logo-transparent-512.png`, `logos/final/bright-roof-final-logo-transparent-256.png` | Square transparent web exports for normal light-mode use. |
+| `logos/final/bright-roof-final-logo-dark-transparent.png` | Website dark-mode logo. Transparent background, warm-white roof/text, retained amber/green accents. |
+| `logos/final/bright-roof-final-logo-dark-transparent-512.png`, `logos/final/bright-roof-final-logo-dark-transparent-256.png` | Square web exports for dark mode. |
 | `logos/07-sunburst.svg` | **Primary mark — "Sunburst".** 12-ray amber sun with navy roof peak at centre. Default for everything: letterheads, PPA covers, signage, app icon, website favicon. |
 | `logos/06-sundial.svg` | Alternate — "Sundial". Full amber sun behind an apartment-skyline silhouette. For warm residential contexts (society pitch decks, leaflets, field signage). |
 | `logos/03-seal.svg` | Badge form — "Seal". Navy disc with cream rays + amber sun inside. Social avatars, stickers, WhatsApp profile, wax-seal-style stamp. |
@@ -138,7 +149,7 @@ Write like you're explaining your business to your neighbour over tea, not like 
 
 **Short (tweet / WhatsApp):**
 
-> Bright Roof installs and owns the solar system on your apartment rooftop. You pay only for what you use, at about Rs. 2/unit below your current grid tariff. We stay with you for the full 20+ years — no handover, no surprise bills.
+> Bright Roof installs and owns the solar system on your apartment rooftop. You pay only for what you use, with a starting proposal of 10% saving against the agreed electricity-tariff benchmark. We stay with you for the full 20+ years — no handover, no surprise bills.
 
 **Medium (website "About" paragraph):**
 
@@ -196,7 +207,7 @@ Prompts are in `prompts/marketing-imagery.md`.
 
 ## 11. Open questions
 
-- [ ] Confirm **Sunburst** as the primary mark (recommended) — alternative is **Sundial** for warmer, more literal contexts. **Seal** is locked as the badge/avatar form.
+- [x] Confirm final logo — `logos/final/bright-roof-final-logo-original.jpg`.
 - [ ] Confirm **tagline** — *Solar that stays.* — with partners.
 - [ ] Confirm **colour palette** vs. a safer navy-only option for a first conservative audience (traditional apartment society committees).
 - [ ] Do we want a **Telugu/Hindi wordmark** variant? If yes, we commission a Devanagari/Telugu match for Fraunces (look at Ek Mukta or Tiro Devanagari for Hindi).

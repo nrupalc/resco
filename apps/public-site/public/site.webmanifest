@@ -1,0 +1,16 @@
+{
+  "name": "Bright Roof Power Systems",
+  "short_name": "Bright Roof",
+  "description": "Rooftop solar for Hyderabad apartment societies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#0E1E4D",
+  "icons": [
+    {
+      "src": "/assets/bright-roof-logo-light.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

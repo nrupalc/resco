@@ -1,0 +1,77 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Bright Roof home" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e5]: Solar that stays.
+    - navigation "Primary navigation" [ref=e6]:
+      - link "How it works" [ref=e7] [cursor=pointer]:
+        - /url: /#how
+      - link "Savings" [ref=e8] [cursor=pointer]:
+        - /url: /#savings
+      - link "FAQ" [ref=e9] [cursor=pointer]:
+        - /url: /#faq
+    - link "Get assessment" [ref=e10] [cursor=pointer]:
+      - /url: /#assessment
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - heading "Privacy Policy" [level=1] [ref=e14]
+      - paragraph [ref=e15]: This Privacy Policy explains how Bright Roof handles personal data when you visit this website or contact us about rooftop solar services.
+      - generic [ref=e16]: "Last updated: 9 May 2026"
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Who we are" [level=2] [ref=e19]
+        - paragraph [ref=e20]: M/s. Bright Roof Power Systems is a Hyderabad-based rooftop solar business. You can contact us at hello@brightroofpower.com, +91 93902 10407, or 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana.
+      - generic [ref=e21]:
+        - heading "Personal data we may collect" [level=2] [ref=e22]
+        - list [ref=e23]:
+          - listitem [ref=e24]: Contact details such as name, phone number, email address, society name, and role.
+          - listitem [ref=e25]: Rooftop and electricity-use details you choose to share, including bills, connected load, approximate monthly units, and site access information.
+          - listitem [ref=e26]: Website analytics data only if you accept analytics cookies, such as pages visited, browser/device information, approximate location derived from IP address, and interaction data collected through Microsoft Clarity.
+      - generic [ref=e27]:
+        - heading "Why we use this data" [level=2] [ref=e28]
+        - list [ref=e29]:
+          - listitem [ref=e30]: To respond to enquiries and schedule rooftop assessments.
+          - listitem [ref=e31]: To prepare feasibility estimates, savings examples, proposals, and draft agreements.
+          - listitem [ref=e32]: To operate, secure, improve, and measure the performance of this website.
+          - listitem [ref=e33]: To comply with applicable legal, accounting, tax, contractual, and regulatory requirements.
+      - generic [ref=e34]:
+        - heading "Analytics and cookies" [level=2] [ref=e35]
+        - paragraph [ref=e36]: We use Microsoft Clarity only after you accept analytics. Clarity helps us understand page usage and improve the website experience. You can decline analytics or reopen privacy choices from the footer.
+      - generic [ref=e37]:
+        - heading "Sharing and processors" [level=2] [ref=e38]
+        - paragraph [ref=e39]: We may share data with service providers that help us host the website, measure analytics, communicate with you, prepare documents, or operate the business. We do not sell personal data.
+      - generic [ref=e40]:
+        - heading "Retention" [level=2] [ref=e41]
+        - paragraph [ref=e42]: Enquiry data is kept only as long as needed for sales follow-up, project evaluation, legal compliance, dispute handling, or legitimate business records. Contract, billing, and statutory records may be retained for longer where required by law.
+      - generic [ref=e43]:
+        - heading "Your choices and rights" [level=2] [ref=e44]
+        - paragraph [ref=e45]: You may contact us to request access, correction, deletion, withdrawal of consent, or grievance resolution in relation to personal data we hold about you, subject to applicable law and contractual record requirements.
+      - generic [ref=e46]:
+        - heading "Grievance contact" [level=2] [ref=e47]
+        - paragraph [ref=e48]: For privacy requests or grievances, contact Bright Roof at hello@brightroofpower.com or +91 93902 10407. We will review requests and respond through the contact details you provide.
+  - contentinfo [ref=e49]:
+    - paragraph [ref=e51]: Solar that stays.
+    - generic [ref=e52]:
+      - strong [ref=e53]: M/s. Bright Roof Power Systems
+      - generic [ref=e54]: 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana
+      - link "+91 93902 10407" [ref=e55] [cursor=pointer]:
+        - /url: tel:+919390210407
+      - link "hello@brightroofpower.com" [ref=e56] [cursor=pointer]:
+        - /url: mailto:hello@brightroofpower.com
+    - navigation "Legal and site links" [ref=e57]:
+      - link "Privacy Policy" [ref=e58] [cursor=pointer]:
+        - /url: /privacy
+      - link "Data Policy" [ref=e59] [cursor=pointer]:
+        - /url: /data-policy
+      - link "Terms of Service" [ref=e60] [cursor=pointer]:
+        - /url: /terms
+      - link "Sitemap" [ref=e61] [cursor=pointer]:
+        - /url: /sitemap.xml
+      - button "Privacy choices" [ref=e62] [cursor=pointer]
+  - complementary "Privacy choices" [ref=e63]:
+    - generic [ref=e64]:
+      - strong [ref=e65]: Privacy choices
+      - paragraph [ref=e66]: We use optional analytics to understand how this site is used. Clarity loads only if you accept.
+    - generic [ref=e67]:
+      - button "Decline" [ref=e68] [cursor=pointer]
+      - button "Accept analytics" [ref=e69] [cursor=pointer]

@@ -1,6 +1,6 @@
 # Bright Roof Power Systems - Project Overview
 
-**Last updated:** 2026-03-15
+**Last updated:** 2026-05-08
 
 ---
 
@@ -46,11 +46,14 @@ Hyderabad, Telangana, India
 |------|--------|
 | **Entity type** | Partnership Firm (to start). Can convert to Pvt Ltd or LLP later |
 | **Firm name** | Bright Roof Power Systems |
-| **Domain** | Checked and available |
+| **Domain** | www.brightroofpower.com - purchased |
+| **Support email** | support@brightroofpower.com |
+| **Phone** | +91 93902 10407 |
+| **Company address** | 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana |
 | **Registered partners** | Nrupal, Nadella Pattabi Rama Rao, Srinivas Koppada |
 | **CA** | Venketeswarlu garu (office in Nacharam, connected through Phani's father) |
 | **Registration sequence** | Firm → PAN → GST → Bank Account |
-| **Office address option** | Phani's family office in Ameerpet |
+| **Canonical profile** | `COMPANY-PROFILE.md` |
 
 ---
 

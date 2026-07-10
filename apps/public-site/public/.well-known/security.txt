@@ -1,0 +1,3 @@
+Contact: mailto:hello@brightroofpower.com
+Preferred-Languages: en
+Canonical: https://brightroofpower.com/.well-known/security.txt

@@ -1,0 +1,63 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Bright Roof home" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e5]: Solar that stays.
+    - navigation "Primary navigation" [ref=e6]:
+      - link "How it works" [ref=e7] [cursor=pointer]:
+        - /url: /#how
+      - link "Savings" [ref=e8] [cursor=pointer]:
+        - /url: /#savings
+      - link "FAQ" [ref=e9] [cursor=pointer]:
+        - /url: /#faq
+    - link "Get assessment" [ref=e10] [cursor=pointer]:
+      - /url: /#assessment
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - heading "Data Policy" [level=1] [ref=e14]
+      - paragraph [ref=e15]: This Data Policy describes the practical safeguards and operating rules Bright Roof follows for website, enquiry, proposal, and project data.
+      - generic [ref=e16]: "Last updated: 9 May 2026"
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Data minimisation" [level=2] [ref=e19]
+        - paragraph [ref=e20]: We ask only for information reasonably needed to assess a rooftop, estimate solar generation, contact a society or homeowner, prepare a proposal, or support an agreement.
+      - generic [ref=e21]:
+        - heading "Data categories" [level=2] [ref=e22]
+        - list [ref=e23]:
+          - listitem [ref=e24]: "Website data: consent status, analytics events after consent, browser/device details, and page interactions."
+          - listitem [ref=e25]: "Enquiry data: contact information, society details, address/location context, rooftop details, and electricity bill information."
+          - listitem [ref=e26]: "Project data: site assessment notes, proposal figures, contract drafts, billing records, maintenance records, and support history."
+      - generic [ref=e27]:
+        - heading "Security practices" [level=2] [ref=e28]
+        - paragraph [ref=e29]: We use access controls, limited internal access, service-provider review, backups where appropriate, and reasonable technical and organisational safeguards for business records. Sensitive operational or identity documents should not be sent unless requested through an agreed channel.
+      - generic [ref=e30]:
+        - heading "Access control" [level=2] [ref=e31]
+        - paragraph [ref=e32]: Access to enquiry, proposal, contract, billing, and maintenance data is limited to partners, employees, consultants, and service providers who need it for Bright Roof work.
+      - generic [ref=e33]:
+        - heading "Data transfers" [level=2] [ref=e34]
+        - paragraph [ref=e35]: Some service providers may process data outside Telangana or India, depending on hosting, email, analytics, document, or cloud tools used. We aim to use providers that maintain appropriate security and confidentiality commitments.
+      - generic [ref=e36]:
+        - heading "Incident handling" [level=2] [ref=e37]
+        - paragraph [ref=e38]: If we become aware of a material data-security issue affecting personal data, we will investigate, take containment steps, and provide notices required by applicable law.
+      - generic [ref=e39]:
+        - heading "Future apps" [level=2] [ref=e40]
+        - paragraph [ref=e41]: Calculator, PPA generation, accounting, and customer-service apps should inherit this policy baseline but may need separate notices, consent flows, role-based access controls, audit logs, and retention schedules before launch.
+  - contentinfo [ref=e42]:
+    - paragraph [ref=e44]: Solar that stays.
+    - generic [ref=e45]:
+      - strong [ref=e46]: M/s. Bright Roof Power Systems
+      - generic [ref=e47]: 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana
+      - link "+91 93902 10407" [ref=e48] [cursor=pointer]:
+        - /url: tel:+919390210407
+      - link "hello@brightroofpower.com" [ref=e49] [cursor=pointer]:
+        - /url: mailto:hello@brightroofpower.com
+    - navigation "Legal and site links" [ref=e50]:
+      - link "Privacy Policy" [ref=e51] [cursor=pointer]:
+        - /url: /privacy
+      - link "Data Policy" [ref=e52] [cursor=pointer]:
+        - /url: /data-policy
+      - link "Terms of Service" [ref=e53] [cursor=pointer]:
+        - /url: /terms
+      - link "Sitemap" [ref=e54] [cursor=pointer]:
+        - /url: /sitemap.xml
+      - button "Privacy choices" [ref=e55] [cursor=pointer]

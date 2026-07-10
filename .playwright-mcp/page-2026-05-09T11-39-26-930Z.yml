@@ -1,0 +1,66 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Bright Roof home" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e5]: Solar that stays.
+    - navigation "Primary navigation" [ref=e6]:
+      - link "How it works" [ref=e7] [cursor=pointer]:
+        - /url: /#how
+      - link "Savings" [ref=e8] [cursor=pointer]:
+        - /url: /#savings
+      - link "FAQ" [ref=e9] [cursor=pointer]:
+        - /url: /#faq
+    - link "Get assessment" [ref=e10] [cursor=pointer]:
+      - /url: /#assessment
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - heading "Terms of Service" [level=1] [ref=e14]
+      - paragraph [ref=e15]: These Terms govern use of the Bright Roof website. Project-specific proposals, PPAs, invoices, and signed contracts will control over website content where they differ.
+      - generic [ref=e16]: "Last updated: 9 May 2026"
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Website purpose" [level=2] [ref=e19]
+        - paragraph [ref=e20]: This website provides general information about Bright Roof rooftop solar services. It does not by itself create a binding installation, supply, finance, maintenance, or power purchase agreement.
+      - generic [ref=e21]:
+        - heading "Estimates and savings examples" [level=2] [ref=e22]
+        - paragraph [ref=e23]: Generation, tariff, and savings examples are indicative. Actual results depend on rooftop size, orientation, shading, equipment, DISCOM tariff, consumption pattern, outages, maintenance conditions, and signed contract terms.
+      - generic [ref=e24]:
+        - heading "Free installation star" [level=2] [ref=e25]
+        - paragraph [ref=e26]: The star next to free solar panel installation means the society does not pay upfront system installation cost under the Bright Roof ownership model. Electricity supply, tariff, tenure, maintenance, payment, site, and termination terms are governed by the signed agreement.
+      - generic [ref=e27]:
+        - heading "Permitted use" [level=2] [ref=e28]
+        - paragraph [ref=e29]: You may use the site to learn about Bright Roof and contact us. Do not misuse the website, attempt unauthorised access, interfere with security, scrape at unreasonable volume, or submit false or unlawful information.
+      - generic [ref=e30]:
+        - heading "No professional advice" [level=2] [ref=e31]
+        - paragraph [ref=e32]: Website content is not legal, tax, engineering, electrical-safety, financial, or regulatory advice. Formal project decisions should be based on site assessment, technical design, statutory approvals where applicable, and signed documents.
+      - generic [ref=e33]:
+        - heading "Intellectual property" [level=2] [ref=e34]
+        - paragraph [ref=e35]: The Bright Roof name, logo, website design, images, copy, and brand materials belong to Bright Roof or its licensors. You may not reuse them commercially without written permission.
+      - generic [ref=e36]:
+        - heading "Liability" [level=2] [ref=e37]
+        - paragraph [ref=e38]: The website is provided on an informational basis. To the extent permitted by law, Bright Roof is not liable for indirect, incidental, consequential, or reliance losses arising from use of this website.
+      - generic [ref=e39]:
+        - heading "Governing law" [level=2] [ref=e40]
+        - paragraph [ref=e41]: These Terms are governed by the laws of India. Courts and competent forums in Hyderabad, Telangana will have jurisdiction, subject to any mandatory law or signed contract term that applies.
+      - generic [ref=e42]:
+        - heading "Contact" [level=2] [ref=e43]
+        - paragraph [ref=e44]: For website or service questions, contact M/s. Bright Roof Power Systems at hello@brightroofpower.com, +91 93902 10407, or 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana.
+  - contentinfo [ref=e45]:
+    - paragraph [ref=e47]: Solar that stays.
+    - generic [ref=e48]:
+      - strong [ref=e49]: M/s. Bright Roof Power Systems
+      - generic [ref=e50]: 8-3-945/8/18&19 Pancom Business Centre, Ameerpet, Hyderabad, 500073, Telangana
+      - link "+91 93902 10407" [ref=e51] [cursor=pointer]:
+        - /url: tel:+919390210407
+      - link "hello@brightroofpower.com" [ref=e52] [cursor=pointer]:
+        - /url: mailto:hello@brightroofpower.com
+    - navigation "Legal and site links" [ref=e53]:
+      - link "Privacy Policy" [ref=e54] [cursor=pointer]:
+        - /url: /privacy
+      - link "Data Policy" [ref=e55] [cursor=pointer]:
+        - /url: /data-policy
+      - link "Terms of Service" [ref=e56] [cursor=pointer]:
+        - /url: /terms
+      - link "Sitemap" [ref=e57] [cursor=pointer]:
+        - /url: /sitemap.xml
+      - button "Privacy choices" [ref=e58] [cursor=pointer]

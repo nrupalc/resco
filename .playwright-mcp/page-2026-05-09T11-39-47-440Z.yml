@@ -1,0 +1,89 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: This XML file does not appear to have any style information associated with it. The document tree is shown below.
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - text: <urlset
+      - generic [ref=e8]: xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      - text: ">"
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e13]: <url>
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - generic [ref=e16]: <loc>
+            - text: https://brightroofpower.com/
+            - generic [ref=e17]: </loc>
+          - generic [ref=e18]:
+            - generic [ref=e19]: <lastmod>
+            - text: 2026-05-09
+            - generic [ref=e20]: </lastmod>
+          - generic [ref=e21]:
+            - generic [ref=e22]: <changefreq>
+            - text: weekly
+            - generic [ref=e23]: </changefreq>
+          - generic [ref=e24]:
+            - generic [ref=e25]: <priority>
+            - text: "1.0"
+            - generic [ref=e26]: </priority>
+        - generic [ref=e28]: </url>
+      - generic [ref=e29]:
+        - generic [ref=e32]: <url>
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e35]: <loc>
+            - text: https://brightroofpower.com/privacy
+            - generic [ref=e36]: </loc>
+          - generic [ref=e37]:
+            - generic [ref=e38]: <lastmod>
+            - text: 2026-05-09
+            - generic [ref=e39]: </lastmod>
+          - generic [ref=e40]:
+            - generic [ref=e41]: <changefreq>
+            - text: monthly
+            - generic [ref=e42]: </changefreq>
+          - generic [ref=e43]:
+            - generic [ref=e44]: <priority>
+            - text: "0.4"
+            - generic [ref=e45]: </priority>
+        - generic [ref=e47]: </url>
+      - generic [ref=e48]:
+        - generic [ref=e51]: <url>
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e54]: <loc>
+            - text: https://brightroofpower.com/data-policy
+            - generic [ref=e55]: </loc>
+          - generic [ref=e56]:
+            - generic [ref=e57]: <lastmod>
+            - text: 2026-05-09
+            - generic [ref=e58]: </lastmod>
+          - generic [ref=e59]:
+            - generic [ref=e60]: <changefreq>
+            - text: monthly
+            - generic [ref=e61]: </changefreq>
+          - generic [ref=e62]:
+            - generic [ref=e63]: <priority>
+            - text: "0.4"
+            - generic [ref=e64]: </priority>
+        - generic [ref=e66]: </url>
+      - generic [ref=e67]:
+        - generic [ref=e70]: <url>
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]: <loc>
+            - text: https://brightroofpower.com/terms
+            - generic [ref=e74]: </loc>
+          - generic [ref=e75]:
+            - generic [ref=e76]: <lastmod>
+            - text: 2026-05-09
+            - generic [ref=e77]: </lastmod>
+          - generic [ref=e78]:
+            - generic [ref=e79]: <changefreq>
+            - text: monthly
+            - generic [ref=e80]: </changefreq>
+          - generic [ref=e81]:
+            - generic [ref=e82]: <priority>
+            - text: "0.4"
+            - generic [ref=e83]: </priority>
+        - generic [ref=e85]: </url>
+    - generic [ref=e87]: </urlset>
